@@ -1,3 +1,3 @@
-module github.com/kshyju/go-load
+module github.com/JohanMoback/GoRocket
 
 go 1.16
